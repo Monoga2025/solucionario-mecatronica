@@ -1,0 +1,26 @@
+# Large binaries, CAD and videos
+*.rar
+*.zip
+*.mp4
+*.obj
+*.SLDASM
+*.sldasm
+*.SLDPRT
+*.sldprt
+*.IGS
+*.iges
+*.STEP
+*.step
+*.f3d
+
+# Heavy course folders not part of the web study guide
+Dibujo/
+SolidWorks_Modelos/
+Mecanica_Ejercicios/
+tmp/pdfs/waves-*.png
+tmp/pdfs/circuits-*.png
+tmp/pdfs/*contact*
+
+# Keep individual crops for web notebook
+!tmp/pdfs/individual/
+!tmp/pdfs/individual/*.png
